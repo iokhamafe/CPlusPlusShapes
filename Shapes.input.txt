@@ -1,0 +1,21 @@
+SQUARE 14.5 344         
+SQUARE                             
+RECTANGLE 14.5    4.65           
+DIMENSIONS
+CIRCLE 14.5
+
+BOX x 2 9
+
+
+CUBE 13
+BOX 1 2 3
+CYLINDER 2.3 4 56
+CANDY
+                                   
+SPHERE 2.4                         
+CYLINDER 1.23                      
+CYLINDER 50 1.23
+TRIANGLE 1.2 3.2    
+PRISM 2.199 5
+               
+EOF
